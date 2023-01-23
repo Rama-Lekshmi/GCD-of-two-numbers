@@ -34,7 +34,6 @@ RegisterNumber: 22009028
 ```
 
 ## Output:
-![](gcd.PNG)
 ![](gcdp.PNG)
 
 
